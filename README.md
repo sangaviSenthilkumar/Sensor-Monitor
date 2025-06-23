@@ -23,11 +23,6 @@ app/src/main/java/com/example/toxictrack/ → Kotlin activity files
 app/src/main/res/layout/ → XML UI layouts
 app/src/main/AndroidManifest.xml → App manifest
 build.gradle (project + app level) → Gradle configs
-
-yaml
-Copy
-Edit
-
 ---
 
 ##  **How to Run**
